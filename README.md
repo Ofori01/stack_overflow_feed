@@ -9,4 +9,5 @@ In the project directory, you can run:
 ### `npm start`
 
 ## Description
+
 > A web app that uses the Stack Api to retrieve questions asked and display comments made on that question from stackOverflow
